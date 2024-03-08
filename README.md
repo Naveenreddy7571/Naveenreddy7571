@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<img align="right" height="250" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" />
 
 ###
 
@@ -31,13 +31,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 </div>
 
-
+<br>
+<br>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="87" height="40" alt="discord logo" />
-  <a href="bnkreddy7571@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="87" height="40" alt="gmail logo" />
-  </a>
+
+<a href="https://www.codingninjas.com/studio/profile/Naveenreddy24" target="_blank">
+    <img src="https://www.svgrepo.com/show/330198/codingninjas.svg" height="30" alt="code studio logo" />
   <a href="https://www.linkedin.com/in/naveenkumarreddybadduri/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="87" height="40" alt="linkedin logo" />
   </a>
@@ -46,7 +46,7 @@
   </a>
 
   <a href="https://leetcode.com/Naveen7571" target="_blank">
-    <img src=https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png height="30" alt="leetcode logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="leetcode logo" />
 </div>
 
 ###
