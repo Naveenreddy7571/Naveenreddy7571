@@ -54,6 +54,11 @@
   <a href="https://www.hackerrank.com/profile/bnkreddy7571" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="68" height="40" alt="hackerrank logo"  />
   </a>
+
+  <a href="https://leetcode.com/Naveen7571/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" width="40" height="40" alt="leetcode logo" />
+  </a>
+    
 </div>
 
 ###
